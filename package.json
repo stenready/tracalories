@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "materialize": "^1.0.0",
     "materialize-css": "^1.0.0-rc.2",
     "popper": "^1.0.1",
